@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Hxctic/Evade-GUI/main/Evade%20V1%20SG?token=GHSAT0AAAAAABZRZPOTSH77YFFHYB4AKKM6YZ43OEQ"), true))()
